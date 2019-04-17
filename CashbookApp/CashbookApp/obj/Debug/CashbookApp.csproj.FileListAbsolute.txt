@@ -1,0 +1,16 @@
+C:\Users\mtadese.STNICHOLAS\documents\visual studio 2015\Projects\CashbookApp\CashbookApp\bin\Debug\CashbookApp.exe.config
+C:\Users\mtadese.STNICHOLAS\documents\visual studio 2015\Projects\CashbookApp\CashbookApp\bin\Debug\CashbookApp.exe
+C:\Users\mtadese.STNICHOLAS\documents\visual studio 2015\Projects\CashbookApp\CashbookApp\bin\Debug\CashbookApp.pdb
+C:\Users\mtadese.STNICHOLAS\documents\visual studio 2015\Projects\CashbookApp\CashbookApp\bin\Debug\EntityFramework.dll
+C:\Users\mtadese.STNICHOLAS\documents\visual studio 2015\Projects\CashbookApp\CashbookApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mtadese.STNICHOLAS\documents\visual studio 2015\Projects\CashbookApp\CashbookApp\bin\Debug\EntityFramework.xml
+C:\Users\mtadese.STNICHOLAS\documents\visual studio 2015\Projects\CashbookApp\CashbookApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mtadese.STNICHOLAS\documents\visual studio 2015\Projects\CashbookApp\CashbookApp\obj\Debug\CashbookApp.Expenses_Record.resources
+C:\Users\mtadese.STNICHOLAS\documents\visual studio 2015\Projects\CashbookApp\CashbookApp\obj\Debug\CashbookApp.New_Expense.resources
+C:\Users\mtadese.STNICHOLAS\documents\visual studio 2015\Projects\CashbookApp\CashbookApp\obj\Debug\CashbookApp.New_Receipt.resources
+C:\Users\mtadese.STNICHOLAS\documents\visual studio 2015\Projects\CashbookApp\CashbookApp\obj\Debug\CashbookApp.Properties.Resources.resources
+C:\Users\mtadese.STNICHOLAS\documents\visual studio 2015\Projects\CashbookApp\CashbookApp\obj\Debug\CashbookApp.Receipts_Record.resources
+C:\Users\mtadese.STNICHOLAS\documents\visual studio 2015\Projects\CashbookApp\CashbookApp\obj\Debug\CashbookApp.csproj.GenerateResource.Cache
+C:\Users\mtadese.STNICHOLAS\documents\visual studio 2015\Projects\CashbookApp\CashbookApp\obj\Debug\CashbookApp.exe
+C:\Users\mtadese.STNICHOLAS\documents\visual studio 2015\Projects\CashbookApp\CashbookApp\obj\Debug\CashbookApp.pdb
+C:\Users\mtadese.STNICHOLAS\documents\visual studio 2015\Projects\CashbookApp\CashbookApp\obj\Debug\CashbookApp.csprojResolveAssemblyReference.cache
